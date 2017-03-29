@@ -1,0 +1,2 @@
+# Password_change_Script
+This_Script_Changes_password_on_all_UNIX_Servers_AIX_Solaris_Linux
